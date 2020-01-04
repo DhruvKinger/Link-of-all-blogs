@@ -6,7 +6,7 @@
 
 * [Traffic Manager for Azure Web App](https://www.c-sharpcorner.com/blogs/traffic-manager-profile-for-an-existing-web-app)
 
-* [Back up of a Azure Web App](https://www.c-sharpcorner.com/blogs/backing-up-an-existing-azure-web-app)
+* [Back up of an Azure Web App](https://www.c-sharpcorner.com/blogs/backing-up-an-existing-azure-web-app)
 
 
 
