@@ -3,3 +3,6 @@
 * [Azure Web App Service](https://www.c-sharpcorner.com/blogs/creating-an-azure-web-app-and-enabling-security-authentication2)
 
 * [Dotnet with Azure](https://www.c-sharpcorner.com/blogs/connecting-microsoft-azure-database-with-net-application2)
+
+* [Traffic Manager for Azure Web App](https://www.c-sharpcorner.com/blogs/traffic-manager-profile-for-an-existing-web-app)
+
