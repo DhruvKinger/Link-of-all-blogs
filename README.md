@@ -8,6 +8,11 @@
 
 * [Back up of an Azure Web App](https://www.c-sharpcorner.com/blogs/backing-up-an-existing-azure-web-app)
 
+* [Saving Excel Records in Database](https://medium.com/@dhruvkinger813/saving-excel-records-to-database-using-asp-net-mvc-65305163bef3)
+
+
+
+
 
 
 
