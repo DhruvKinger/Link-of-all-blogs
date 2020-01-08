@@ -4,7 +4,7 @@
 
 * [Dotnet with Azure](https://www.c-sharpcorner.com/blogs/connecting-microsoft-azure-database-with-net-application2)
 
- * [Voice Bot of Azure Cognitive Services] (https://assistant.google.com/services/a/uid/00000078c0f2e4c9?hl=en)
+ * [Voice Bot of Azure Cognitive Services](https://assistant.google.com/services/a/uid/00000078c0f2e4c9?hl=en)
 
 * [Traffic Manager for Azure Web App](https://www.c-sharpcorner.com/blogs/traffic-manager-profile-for-an-existing-web-app)
 
