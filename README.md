@@ -6,7 +6,7 @@
 
  * [Voice Bot of Azure Cognitive Services](https://assistant.google.com/services/a/uid/00000078c0f2e4c9?hl=en)
 
-* [Traffic Manager for Azure Web App](https://www.c-sharpcorner.com/blogs/traffic-manager-profile-for-an-existing-web-app)
+* [Traffic Manager for Azure Web App](https://www.c-sharpcorner.com/blogs/how-to-add-traffic-manager-profile-for-an-existing-web-app)
 
 * [Back up of an Azure Web App](https://www.c-sharpcorner.com/blogs/backing-up-an-existing-azure-web-app)
 
