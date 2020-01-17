@@ -15,7 +15,7 @@
 
 * [Creating Text Analytics API](https://medium.com/@dhruvkinger813/how-to-create-text-analytics-api-for-our-projects-a1929d233c5d)
 
-
+* [Azure Logic App Enterprise Application](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
 
 
 
