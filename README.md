@@ -13,6 +13,7 @@
 * [Saving Excel Records in Database](https://medium.com/@dhruvkinger813/saving-excel-records-to-database-using-asp-net-mvc-65305163bef3)
 * [Important Interview Questions for a Dotnet Developer](https://medium.com/@dhruvkinger813/some-important-interview-questions-for-a-dotnet-developer-fe73276ebfe4)
 
+* [Creating Text Analytics API](https://medium.com/@dhruvkinger813/how-to-create-text-analytics-api-for-our-projects-a1929d233c5d)
 
 
 
