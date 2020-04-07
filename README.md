@@ -1,4 +1,4 @@
-# This repository is created to take a account of all the blogs written by me :
+# This repository is created to take a account of all the blogs written by me on Medium and C# Corner
 
 * [Azure Web App Service](https://www.c-sharpcorner.com/blogs/creating-an-azure-web-app-and-enabling-security-authentication2)
 
